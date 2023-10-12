@@ -1,5 +1,9 @@
 # Inception
 
+<div style="display" align="center">
+<img src="./rscs/docker.png" width='42%'>
+</div>
+
 This project from 42 school aims to broaden your knowledge of system administration by using Docker.
 
 ## Mandatory part
