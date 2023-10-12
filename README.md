@@ -25,7 +25,7 @@ NGINX is a lightweight and fast web server that is used to serve static or dynam
 
 ### WordPress + php-fpm
 
-WordPress is a popular web content management system that is used to create dynamic web sites. It's easy to use and has a large community of developers creating plugins and themes to add functionality and customize the look of your site. In this project, I'm using WordPress in conjunction with php-fpm to ensure your site runs properly.
+WordPress is a popular web content management system that is used to create dynamic web sites. It's easy to use and has a large community of developers creating plugins and themes to add functionality and customize the look of your site.
 
 ### MariaDB
 
